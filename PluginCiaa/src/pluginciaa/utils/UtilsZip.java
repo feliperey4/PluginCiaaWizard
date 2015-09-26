@@ -12,7 +12,7 @@ import java.util.zip.ZipInputStream;
 
 /**
  * Se encarga realizar las funciones relacionadas con 
- * documentos de tipo ZIP.
+ * documentos de tipo ZIP. 
  * @author Felipe Rey
  *
  */
